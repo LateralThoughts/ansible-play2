@@ -1,3 +1,4 @@
+---
 galaxy_info:
   author: Olivier Girardot
   description: Play2 role to install play2 versions for a given app and the init.d necessary to run it.
