@@ -1,18 +1,12 @@
----
 galaxy_info:
   author: Olivier Girardot
-  description: 
+  description: Play2 role to install play2 versions for a given app and the init.d necessary to run it.
   company: Lateral-Thoughts.com
   license: GPLv3
-  min_ansible_version: 1.2 (or higher)
+  min_ansible_version: 1.2
   - name: Debian
     versions:
     - all
   categories:
   - development
-  - web
-  
-dependencies:
-  # List your role dependencies here, one per line. Only
-  # dependencies available via galaxy should be listed here.
-  
+  - web  
