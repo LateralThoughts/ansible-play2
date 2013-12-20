@@ -1,0 +1,4 @@
+---
+# vars file for play2
+deploy_path : "/opt/play" # where you want to install play
+play_version: "2.2.1" # the version ou wish to use
